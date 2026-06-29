@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+transactions.db
+
+models/fraud_model.pkl
+data/creditcard.csv
+upi_fraud_dataset.csv
+
+.DS_Store
+.env
